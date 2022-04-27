@@ -2,7 +2,6 @@ package com.nabil.gestiondestock.dto;
 
 import java.math.BigDecimal;
 
-import com.nabil.gestiondestock.models.CommandeFournisseur;
 import com.nabil.gestiondestock.models.LigneCommandeFournisseur;
 
 import lombok.Builder;
